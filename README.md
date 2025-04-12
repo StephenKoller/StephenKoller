@@ -5,7 +5,6 @@ Hey, I'm Stephen.
 I like to build stuff, learn new things, and (soon) write about them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-stephenkoller-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stephenkoller)
-[![Email](https://img.shields.io/badge/Email-stephenkoller%40hey.com-red?style=flat-square&logo=hey)](mailto:stephenkoller@hey.com)
 [![Location](https://img.shields.io/badge/Location-Ann%20Arbor%2C%20MI-green?style=flat-square&logo=googlemap)](https://www.google.com/maps/place/Ann+Arbor,+MI)
 
 ## 🌱 Currently Learning
