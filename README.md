@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🛹 Hello, fellow kids!
 
-<!--
-**StephenKoller/StephenKoller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Stephen.
 
-Here are some ideas to get you started:
+I like to build stuff, learn new things, and (soon) write about them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-stephenkoller-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stephenkoller)
+[![Email](https://img.shields.io/badge/Email-stephenkoller%40hey.com-red?style=flat-square&logo=hey)](mailto:stephenkoller@hey.com)
+[![Location](https://img.shields.io/badge/Location-Ann%20Arbor%2C%20MI-green?style=flat-square&logo=googlemap)](https://www.google.com/maps/place/Ann+Arbor,+MI)
+
+## 🌱 Currently Learning
+
+- Go (s/o to boot.dev, the Learning Go book)
+- Techniques for integrating LLMs into web UIs
+- Postgres & SQLite
+
+---
+
+<p align="center">
+  <i>"Learning never exhausts the mind." - Leonardo da Vinci</i>
+</p>
